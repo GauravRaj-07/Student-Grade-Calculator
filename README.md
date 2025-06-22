@@ -64,3 +64,20 @@ This Java Swing application allows students to input their marks in five subject
 ```bash
 javac GradeCalculatorGUI.java
 java GradeCalculatorGUI
+```
+
+## 📜 License
+
+This project is open-source and intended for educational, personal, or academic use.
+
+---
+
+## 👨‍💻 Author
+
+**Gaurav Raj**
+
+> Future enhancements may include:
+> - Subject weighting
+> - PDF report generation
+> - Persistent student records
+
